@@ -1,0 +1,8 @@
+{
+  "name": "Oficina Office",
+  "description": "Mini-game educativo para alunos do 8º e 9º ano aprenderem Microsoft Word, Excel e PowerPoint na prática com tutor de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
